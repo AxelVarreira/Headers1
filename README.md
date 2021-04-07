@@ -12,4 +12,4 @@
 - Be happy
 
 # Main page
-[![Captura-de-tela-de-2021-04-06-22-11-24.png](https://i.postimg.cc/jjRpzhRc/Captura-de-tela-de-2021-04-06-22-11-24.png)](https://postimg.cc/Mnr3wVMf)
+[![animated-GIF.gif](https://i.postimg.cc/3wBdB9mx/animated-GIF.gif)](https://postimg.cc/v14Y8r0J)
