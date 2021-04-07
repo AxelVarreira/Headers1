@@ -13,6 +13,12 @@ main {
   height: 40vh;
 }
 
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .background {
   height: 400px;
   width: 100%;
@@ -68,6 +74,10 @@ main {
 }
 
 .container .menu-header .item-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
   list-style: none;
 
   background-color: white;
