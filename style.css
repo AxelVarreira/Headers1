@@ -74,10 +74,6 @@ footer {
 }
 
 .container .menu-header .item-list {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
   list-style: none;
 
   background-color: white;
