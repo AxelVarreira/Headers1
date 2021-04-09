@@ -1,0 +1,20 @@
+.container {
+  max-width: 1200px;
+}
+
+.menu .logo-header span {
+  margin-right: 15px;
+}
+
+.menu .input .header-form {
+  display: flex;
+}
+
+.menu .input .header-form .inputs {
+  display: flex;
+}
+
+.menu .input .header-form .inputs .email-container .email-input,
+.menu .input .header-form .inputs .password-container .password-input {
+  margin-right: 10px;
+}
