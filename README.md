@@ -9,7 +9,9 @@
 
 - Open your terminal
 - write "git clone https://github.com/AxelVarreira/headers"
-- Be happy
+- start opening the "index.html" from the root file or initialize it with "live-server" or even use Bracey on Neovim 
+- If you don't have "live-server" on your VSCODE or on your system , install it globally with "npm install -g live-server" and then live-server <file name>
+- For more details about live-server: https://www.npmjs.com/package/live-server
 
 # Header 0
 [![animated-GIF.gif](https://i.postimg.cc/3wBdB9mx/animated-GIF.gif)](https://postimg.cc/v14Y8r0J)
@@ -24,4 +26,13 @@
 <br>
 <br>
 <br>
-[![Captura-de-tela-de-2021-04-08-17-10-11.png](https://i.postimg.cc/J0sr8rHv/Captura-de-tela-de-2021-04-08-17-10-11.png)](https://postimg.cc/SYpF7prf)
+# Header 2
+[![Captura-de-tela-de-2021-04-09-04-08-48.png](https://i.postimg.cc/KvhLPRLz/Captura-de-tela-de-2021-04-09-04-08-48.png)](https://postimg.cc/23TVmj0R)
+<br>
+<br>
+<br>
+[![Captura-de-tela-de-2021-04-09-04-08-52.png](https://i.postimg.cc/3rvm0gkV/Captura-de-tela-de-2021-04-09-04-08-52.png)](https://postimg.cc/s13vtG94)
+<br>
+<br>
+<br>
+[![Captura-de-tela-de-2021-04-09-04-08-55.png](https://i.postimg.cc/Y0YFcHcM/Captura-de-tela-de-2021-04-09-04-08-55.png)](https://postimg.cc/YL20gTqs)
